@@ -1,7 +1,7 @@
 # helping_others
 This is a repository with my commonly-shared scripts for familiarizing new students with R and microbial ecology analyses. 
 
- <strong> 1. read_data_and_metadata </strong>
+ <strong> 1. read_data_and_metadata_readxl </strong>
  <em><p><tab>This contains an R script and example data. The objective is to read in datasheet with both sample metadata + data to R using the readxl package, then split into two dataframes (data and metadata).</em></p>
  
 <strong> 2. quick_ASV_analyses </strong>
